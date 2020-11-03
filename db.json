@@ -1,6 +1,8 @@
 {
-name: 'Hi'
-}
-{
-name: 'hello'
+  "users": [
+    {
+      "id": 1,
+      "name": "Jermaine"
+    }
+  ]
 }
